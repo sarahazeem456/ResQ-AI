@@ -1,0 +1,6 @@
+{
+  "name": "ResQ AI — Smart Emergency Response & Intelligence Platform",
+  "description": "Open-source emergency response coordination platform with AI-driven incident triage, real-time command-center map, responder dispatch, duplicate detection, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
